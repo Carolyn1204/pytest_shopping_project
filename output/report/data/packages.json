@@ -1,0 +1,93 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcases",
+    "children" : [ {
+      "name" : "test01_place_order",
+      "children" : [ {
+        "name" : "test_place_order",
+        "uid" : "a8cbc762b721d535",
+        "parentUid" : "528fc321b97d896519ee41000eb8b8ad",
+        "status" : "broken",
+        "time" : {
+          "start" : 1650587515890,
+          "stop" : 1650587560898,
+          "duration" : 45008
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "528fc321b97d896519ee41000eb8b8ad"
+    }, {
+      "name" : "test02_empty_shopping_cart",
+      "children" : [ {
+        "name" : "test_empty_shopping_cart",
+        "uid" : "750153c94de5d554",
+        "parentUid" : "5b92c37d2c0e0e62100e38a8a3c179d2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650587755767,
+          "stop" : 1650587760492,
+          "duration" : 4725
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5b92c37d2c0e0e62100e38a8a3c179d2"
+    }, {
+      "name" : "test_01place_order",
+      "children" : [ {
+        "name" : "test_place_order",
+        "uid" : "d54050b402236419",
+        "parentUid" : "ff1e86f707b8bdcd4e051f3a2c04b40b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651791271289,
+          "stop" : 1651791310903,
+          "duration" : 39614
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ff1e86f707b8bdcd4e051f3a2c04b40b"
+    }, {
+      "name" : "test_02empty_shopping_cart",
+      "children" : [ {
+        "name" : "test_empty_shopping_cart",
+        "uid" : "b122956f202dc67e",
+        "parentUid" : "f072ac3b61ca5bfe49226ce5e3cf9da9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651791325858,
+          "stop" : 1651791336358,
+          "duration" : 10500
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f072ac3b61ca5bfe49226ce5e3cf9da9"
+    } ],
+    "uid" : "141fa05f02bf329144b0086cf92149a8"
+  } ]
+}

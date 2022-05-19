@@ -1,0 +1,22 @@
+INFO     shopping-online:logger.py:26 ******************************** START *******************************
+INFO     shopping-online:logger.py:26 open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+INFO     shopping-online:logger.py:26 locate the element:('id', 'dwfrm_login_username')
+INFO     shopping-online:logger.py:26 input the text:1659145340@qq.com
+INFO     shopping-online:logger.py:26 locate the element:('id', 'dwfrm_login_password')
+INFO     shopping-online:logger.py:26 input the text:1204fighting
+INFO     shopping-online:logger.py:26 locate the element:('id', 'lbl_dwfrm_login_rememberme')
+INFO     shopping-online:logger.py:26 click the element:('id', 'lbl_dwfrm_login_rememberme')
+INFO     shopping-online:logger.py:26 locate the element:('id', 'login')
+INFO     shopping-online:logger.py:26 click the element:('id', 'login')
+INFO     shopping-online:logger.py:26 locate the element:('xpath', "//button[@aria-label='Minicart Icon']/img[@alt='minicart-icon']")
+INFO     shopping-online:logger.py:26 click the element:('xpath', "//button[@aria-label='Minicart Icon']/img[@alt='minicart-icon']")
+INFO     shopping-online:logger.py:26 locate the element:('xpath', "//a[contains(@class,'mini-cart-link-cart')]")
+INFO     shopping-online:logger.py:26 click the element:('xpath', "//a[contains(@class,'mini-cart-link-cart')]")
+INFO     shopping-online:logger.py:26 locate the element:('xpath', "//a[@id='removeGiftOptions']")
+INFO     shopping-online:logger.py:26 click the element:('xpath', "//a[@id='removeGiftOptions']")
+INFO     shopping-online:logger.py:26 locate the element:('xpath', "//span[@class='remove']")
+INFO     shopping-online:logger.py:26 click the element:('xpath', "//span[@class='remove']")
+INFO     shopping-online:logger.py:26 locate the element:('xpath', "//span[text()=' No Items in Your Bag']")
+INFO     shopping-online:logger.py:26 get text:No Items in Your Bag
+INFO     shopping-online:logger.py:26 PASS
+INFO     shopping-online:logger.py:26 ******************************** END **********************************

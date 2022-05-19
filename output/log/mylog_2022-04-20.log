@@ -1,0 +1,512 @@
+time:2022-04-20 12:19:00,614--ERROR:shopping_website:cannot click the element://*[@class='header-icon-search']--base_page.py--84
+time:2022-04-20 12:19:51,382--ERROR:shopping_website:cannot click the element://*[@class='header-icon-search']--base_page.py--84
+time:2022-04-20 12:22:27,667--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-20 12:22:27,709--INFO:shopping_website:locate the element:('id', 'dwfrm_login_username')--base_page.py--42
+time:2022-04-20 12:22:28,080--INFO:shopping_website:input the text:1659145340@qq.com--base_page.py--91
+time:2022-04-20 12:22:28,159--INFO:shopping_website:locate the element:('id', 'dwfrm_login_password')--base_page.py--42
+time:2022-04-20 12:22:28,306--INFO:shopping_website:input the text:1204fighting--base_page.py--91
+time:2022-04-20 12:22:28,329--INFO:shopping_website:locate the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--42
+time:2022-04-20 12:22:28,636--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--73
+time:2022-04-20 12:22:28,681--INFO:shopping_website:locate the element:('id', 'login')--base_page.py--42
+time:2022-04-20 12:22:30,997--INFO:shopping_website:click the element:('id', 'login')--base_page.py--73
+time:2022-04-20 12:23:05,950--INFO:shopping_website:locate the elements:('xpath', "//*[@class='header-icon-search']")--base_page.py--51
+time:2022-04-20 12:23:06,391--INFO:shopping_website:click the element://*[@class='header-icon-search']--base_page.py--82
+time:2022-04-20 12:23:06,696--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:23:06,743--INFO:shopping_website:click the element:('id', 'searchInput')--base_page.py--73
+time:2022-04-20 12:23:06,761--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:23:06,891--INFO:shopping_website:input the text:sweater--base_page.py--91
+time:2022-04-20 12:23:06,913--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:23:10,856--INFO:shopping_website:enter key in the element of:('id', 'searchInput')--base_page.py--112
+time:2022-04-20 12:24:21,271--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-20 12:24:21,333--INFO:shopping_website:locate the element:('id', 'dwfrm_login_username')--base_page.py--42
+time:2022-04-20 12:24:21,662--INFO:shopping_website:input the text:1659145340@qq.com--base_page.py--91
+time:2022-04-20 12:24:21,737--INFO:shopping_website:locate the element:('id', 'dwfrm_login_password')--base_page.py--42
+time:2022-04-20 12:24:22,009--INFO:shopping_website:input the text:1204fighting--base_page.py--91
+time:2022-04-20 12:24:22,033--INFO:shopping_website:locate the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--42
+time:2022-04-20 12:24:22,150--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--73
+time:2022-04-20 12:24:22,188--INFO:shopping_website:locate the element:('id', 'login')--base_page.py--42
+time:2022-04-20 12:24:24,540--INFO:shopping_website:click the element:('id', 'login')--base_page.py--73
+time:2022-04-20 12:25:40,192--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-20 12:25:40,302--INFO:shopping_website:locate the element:('id', 'dwfrm_login_username')--base_page.py--42
+time:2022-04-20 12:25:40,693--INFO:shopping_website:input the text:1659145340@qq.com--base_page.py--91
+time:2022-04-20 12:25:40,748--INFO:shopping_website:locate the element:('id', 'dwfrm_login_password')--base_page.py--42
+time:2022-04-20 12:25:41,117--INFO:shopping_website:input the text:1204fighting--base_page.py--91
+time:2022-04-20 12:25:41,162--INFO:shopping_website:locate the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--42
+time:2022-04-20 12:25:41,276--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--73
+time:2022-04-20 12:25:41,336--INFO:shopping_website:locate the element:('id', 'login')--base_page.py--42
+time:2022-04-20 12:25:43,707--INFO:shopping_website:click the element:('id', 'login')--base_page.py--73
+time:2022-04-20 12:25:43,710--ERROR:shopping_website:cannot click the element://*[@class='header-icon-search']--base_page.py--84
+time:2022-04-20 12:25:43,710--ERROR:shopping_website:cannot click the element://*[@class='header-icon-search']--base_page.py--84
+time:2022-04-20 12:29:20,656--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-20 12:29:20,789--INFO:shopping_website:locate the element:('id', 'dwfrm_login_username')--base_page.py--42
+time:2022-04-20 12:29:21,277--INFO:shopping_website:input the text:1659145340@qq.com--base_page.py--91
+time:2022-04-20 12:29:21,347--INFO:shopping_website:locate the element:('id', 'dwfrm_login_password')--base_page.py--42
+time:2022-04-20 12:29:21,662--INFO:shopping_website:input the text:1204fighting--base_page.py--91
+time:2022-04-20 12:29:21,716--INFO:shopping_website:locate the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--42
+time:2022-04-20 12:29:21,895--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--73
+time:2022-04-20 12:29:21,968--INFO:shopping_website:locate the element:('id', 'login')--base_page.py--42
+time:2022-04-20 12:29:24,733--INFO:shopping_website:click the element:('id', 'login')--base_page.py--73
+time:2022-04-20 12:29:24,735--ERROR:shopping_website:cannot find the elements:('xpath', "//*[@class='header-icon-search']")--base_page.py--53
+time:2022-04-20 12:29:24,735--ERROR:shopping_website:cannot find the elements:('xpath', "//*[@class='header-icon-search']")--base_page.py--53
+time:2022-04-20 12:29:24,735--ERROR:shopping_website:cannot click the element://*[@class='header-icon-search']--base_page.py--84
+time:2022-04-20 12:29:24,735--ERROR:shopping_website:cannot click the element://*[@class='header-icon-search']--base_page.py--84
+time:2022-04-20 12:32:14,212--INFO:shopping_website:click the element://*[@class='header-icon-search']--base_page.py--82
+time:2022-04-20 12:32:14,369--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:32:14,457--INFO:shopping_website:click the element:('id', 'searchInput')--base_page.py--73
+time:2022-04-20 12:32:14,582--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:32:14,623--INFO:shopping_website:input the text:sweater--base_page.py--91
+time:2022-04-20 12:32:14,665--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:32:18,457--INFO:shopping_website:enter key in the element of:('id', 'searchInput')--base_page.py--112
+time:2022-04-20 12:32:31,629--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-20 12:32:31,707--INFO:shopping_website:locate the element:('id', 'dwfrm_login_username')--base_page.py--42
+time:2022-04-20 12:32:31,898--INFO:shopping_website:input the text:1659145340@qq.com--base_page.py--91
+time:2022-04-20 12:32:31,940--INFO:shopping_website:locate the element:('id', 'dwfrm_login_password')--base_page.py--42
+time:2022-04-20 12:32:32,185--INFO:shopping_website:input the text:1204fighting--base_page.py--91
+time:2022-04-20 12:32:32,206--INFO:shopping_website:locate the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--42
+time:2022-04-20 12:32:32,410--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--73
+time:2022-04-20 12:32:32,441--INFO:shopping_website:locate the element:('id', 'login')--base_page.py--42
+time:2022-04-20 12:32:34,619--INFO:shopping_website:click the element:('id', 'login')--base_page.py--73
+time:2022-04-20 12:32:34,621--ERROR:shopping_website:cannot click the element://*[@class='header-icon-search']--base_page.py--84
+time:2022-04-20 12:32:34,621--ERROR:shopping_website:cannot click the element://*[@class='header-icon-search']--base_page.py--84
+time:2022-04-20 12:36:56,423--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-20 12:36:56,486--INFO:shopping_website:locate the element:('id', 'dwfrm_login_username')--base_page.py--42
+time:2022-04-20 12:36:56,888--INFO:shopping_website:input the text:1659145340@qq.com--base_page.py--91
+time:2022-04-20 12:36:56,948--INFO:shopping_website:locate the element:('id', 'dwfrm_login_password')--base_page.py--42
+time:2022-04-20 12:36:57,169--INFO:shopping_website:input the text:1204fighting--base_page.py--91
+time:2022-04-20 12:36:57,257--INFO:shopping_website:locate the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--42
+time:2022-04-20 12:36:57,485--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--73
+time:2022-04-20 12:36:57,540--INFO:shopping_website:locate the element:('id', 'login')--base_page.py--42
+time:2022-04-20 12:37:00,258--INFO:shopping_website:click the element:('id', 'login')--base_page.py--73
+time:2022-04-20 12:37:00,260--ERROR:shopping_website:cannot click the element://*[@class='header-icon-search']--base_page.py--84
+time:2022-04-20 12:37:00,260--ERROR:shopping_website:cannot click the element://*[@class='header-icon-search']--base_page.py--84
+time:2022-04-20 12:39:38,080--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-20 12:39:38,125--INFO:shopping_website:locate the element:('id', 'dwfrm_login_username')--base_page.py--42
+time:2022-04-20 12:39:38,562--INFO:shopping_website:input the text:1659145340@qq.com--base_page.py--91
+time:2022-04-20 12:39:38,628--INFO:shopping_website:locate the element:('id', 'dwfrm_login_password')--base_page.py--42
+time:2022-04-20 12:39:38,818--INFO:shopping_website:input the text:1204fighting--base_page.py--91
+time:2022-04-20 12:39:38,885--INFO:shopping_website:locate the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--42
+time:2022-04-20 12:39:39,083--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--73
+time:2022-04-20 12:39:39,135--INFO:shopping_website:locate the element:('id', 'login')--base_page.py--42
+time:2022-04-20 12:39:41,776--INFO:shopping_website:click the element:('id', 'login')--base_page.py--73
+time:2022-04-20 12:40:07,898--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-20 12:40:07,998--INFO:shopping_website:locate the element:('id', 'dwfrm_login_username')--base_page.py--42
+time:2022-04-20 12:40:08,381--INFO:shopping_website:input the text:1659145340@qq.com--base_page.py--91
+time:2022-04-20 12:40:08,436--INFO:shopping_website:locate the element:('id', 'dwfrm_login_password')--base_page.py--42
+time:2022-04-20 12:40:08,699--INFO:shopping_website:input the text:1204fighting--base_page.py--91
+time:2022-04-20 12:40:08,725--INFO:shopping_website:locate the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--42
+time:2022-04-20 12:40:08,923--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--73
+time:2022-04-20 12:40:08,968--INFO:shopping_website:locate the element:('id', 'login')--base_page.py--42
+time:2022-04-20 12:40:12,354--INFO:shopping_website:click the element:('id', 'login')--base_page.py--73
+time:2022-04-20 12:40:12,628--INFO:shopping_website:click the element://*[@class='header-icon-search']--base_page.py--82
+time:2022-04-20 12:40:12,628--INFO:shopping_website:click the element://*[@class='header-icon-search']--base_page.py--82
+time:2022-04-20 12:40:12,671--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:40:12,671--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:40:12,737--INFO:shopping_website:click the element:('id', 'searchInput')--base_page.py--73
+time:2022-04-20 12:40:12,737--INFO:shopping_website:click the element:('id', 'searchInput')--base_page.py--73
+time:2022-04-20 12:40:12,802--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:40:12,802--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:40:12,982--INFO:shopping_website:input the text:sweater--base_page.py--91
+time:2022-04-20 12:40:12,982--INFO:shopping_website:input the text:sweater--base_page.py--91
+time:2022-04-20 12:40:13,020--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:40:13,020--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:40:17,530--INFO:shopping_website:enter key in the element of:('id', 'searchInput')--base_page.py--112
+time:2022-04-20 12:40:17,530--INFO:shopping_website:enter key in the element of:('id', 'searchInput')--base_page.py--112
+time:2022-04-20 12:41:37,299--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-20 12:41:37,373--INFO:shopping_website:locate the element:('id', 'dwfrm_login_username')--base_page.py--42
+time:2022-04-20 12:41:37,538--INFO:shopping_website:input the text:1659145340@qq.com--base_page.py--91
+time:2022-04-20 12:41:37,569--INFO:shopping_website:locate the element:('id', 'dwfrm_login_password')--base_page.py--42
+time:2022-04-20 12:41:37,827--INFO:shopping_website:input the text:1204fighting--base_page.py--91
+time:2022-04-20 12:41:37,915--INFO:shopping_website:locate the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--42
+time:2022-04-20 12:41:38,106--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--73
+time:2022-04-20 12:41:38,140--INFO:shopping_website:locate the element:('id', 'login')--base_page.py--42
+time:2022-04-20 12:41:40,434--INFO:shopping_website:click the element:('id', 'login')--base_page.py--73
+time:2022-04-20 12:41:40,926--INFO:shopping_website:click the element://*[@class='header-icon-search']--base_page.py--82
+time:2022-04-20 12:41:40,926--INFO:shopping_website:click the element://*[@class='header-icon-search']--base_page.py--82
+time:2022-04-20 12:41:40,955--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:41:40,955--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:41:41,049--INFO:shopping_website:click the element:('id', 'searchInput')--base_page.py--73
+time:2022-04-20 12:41:41,049--INFO:shopping_website:click the element:('id', 'searchInput')--base_page.py--73
+time:2022-04-20 12:41:41,128--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:41:41,128--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:41:41,226--INFO:shopping_website:input the text:sweater--base_page.py--91
+time:2022-04-20 12:41:41,226--INFO:shopping_website:input the text:sweater--base_page.py--91
+time:2022-04-20 12:41:41,319--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:41:41,319--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:41:43,739--INFO:shopping_website:enter key in the element of:('id', 'searchInput')--base_page.py--112
+time:2022-04-20 12:41:43,739--INFO:shopping_website:enter key in the element of:('id', 'searchInput')--base_page.py--112
+time:2022-04-20 12:52:22,851--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-20 12:52:22,972--INFO:shopping_website:locate the element:('id', 'dwfrm_login_username')--base_page.py--42
+time:2022-04-20 12:52:23,315--INFO:shopping_website:input the text:1659145340@qq.com--base_page.py--91
+time:2022-04-20 12:52:23,371--INFO:shopping_website:locate the element:('id', 'dwfrm_login_password')--base_page.py--42
+time:2022-04-20 12:52:23,686--INFO:shopping_website:input the text:1204fighting--base_page.py--91
+time:2022-04-20 12:52:23,737--INFO:shopping_website:locate the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--42
+time:2022-04-20 12:52:23,850--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--73
+time:2022-04-20 12:52:23,882--INFO:shopping_website:locate the element:('id', 'login')--base_page.py--42
+time:2022-04-20 12:52:25,936--INFO:shopping_website:click the element:('id', 'login')--base_page.py--73
+time:2022-04-20 12:52:26,324--INFO:shopping_website:click the element://*[@class='header-icon-search']--base_page.py--82
+time:2022-04-20 12:52:26,324--INFO:shopping_website:click the element://*[@class='header-icon-search']--base_page.py--82
+time:2022-04-20 12:52:26,362--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:52:26,362--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:52:26,449--INFO:shopping_website:click the element:('id', 'searchInput')--base_page.py--73
+time:2022-04-20 12:52:26,449--INFO:shopping_website:click the element:('id', 'searchInput')--base_page.py--73
+time:2022-04-20 12:52:26,507--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:52:26,507--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:52:26,621--INFO:shopping_website:input the text:sweater--base_page.py--91
+time:2022-04-20 12:52:26,621--INFO:shopping_website:input the text:sweater--base_page.py--91
+time:2022-04-20 12:52:26,692--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:52:26,692--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:52:30,807--INFO:shopping_website:enter key in the element of:('id', 'searchInput')--base_page.py--112
+time:2022-04-20 12:52:30,807--INFO:shopping_website:enter key in the element of:('id', 'searchInput')--base_page.py--112
+time:2022-04-20 12:52:30,851--INFO:shopping_website:locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--42
+time:2022-04-20 12:52:30,851--INFO:shopping_website:locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--42
+time:2022-04-20 12:52:30,851--INFO:shopping_website:locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--42
+time:2022-04-20 12:52:31,192--INFO:shopping_website:click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--73
+time:2022-04-20 12:52:31,192--INFO:shopping_website:click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--73
+time:2022-04-20 12:52:31,192--INFO:shopping_website:click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--73
+time:2022-04-20 12:52:31,344--INFO:shopping_website:click the element:xpath--base_page.py--82
+time:2022-04-20 12:52:31,344--INFO:shopping_website:click the element:xpath--base_page.py--82
+time:2022-04-20 12:52:31,344--INFO:shopping_website:click the element:xpath--base_page.py--82
+time:2022-04-20 12:52:31,432--INFO:shopping_website:locate the element:('xpath', "//span[text()='Personalized']")--base_page.py--42
+time:2022-04-20 12:52:31,432--INFO:shopping_website:locate the element:('xpath', "//span[text()='Personalized']")--base_page.py--42
+time:2022-04-20 12:52:31,432--INFO:shopping_website:locate the element:('xpath', "//span[text()='Personalized']")--base_page.py--42
+time:2022-04-20 12:52:31,633--INFO:shopping_website:click the element:('xpath', "//span[text()='Personalized']")--base_page.py--73
+time:2022-04-20 12:52:31,633--INFO:shopping_website:click the element:('xpath', "//span[text()='Personalized']")--base_page.py--73
+time:2022-04-20 12:52:31,633--INFO:shopping_website:click the element:('xpath', "//span[text()='Personalized']")--base_page.py--73
+time:2022-04-20 12:52:31,855--INFO:shopping_website:click the element://div[@class='selectric-scroll']//li[@data-index='4']--base_page.py--82
+time:2022-04-20 12:52:31,855--INFO:shopping_website:click the element://div[@class='selectric-scroll']//li[@data-index='4']--base_page.py--82
+time:2022-04-20 12:52:31,855--INFO:shopping_website:click the element://div[@class='selectric-scroll']//li[@data-index='4']--base_page.py--82
+time:2022-04-20 12:52:32,923--ERROR:shopping_website:cannot click the element://a[@class='thumb-link ']/picture/img--base_page.py--84
+time:2022-04-20 12:52:32,923--ERROR:shopping_website:cannot click the element://a[@class='thumb-link ']/picture/img--base_page.py--84
+time:2022-04-20 12:52:32,923--ERROR:shopping_website:cannot click the element://a[@class='thumb-link ']/picture/img--base_page.py--84
+time:2022-04-20 12:55:43,961--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Search-Show?q=sweater--base_page.py--24
+time:2022-04-20 12:56:51,058--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Search-Show?q=sweater--base_page.py--24
+time:2022-04-20 12:56:54,092--INFO:shopping_website:locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--42
+time:2022-04-20 12:56:54,303--INFO:shopping_website:click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--73
+time:2022-04-20 12:56:54,402--INFO:shopping_website:click the element:xpath--base_page.py--82
+time:2022-04-20 12:56:57,428--INFO:shopping_website:locate the element:('xpath', "//span[text()='Personalized']")--base_page.py--42
+time:2022-04-20 12:56:57,560--INFO:shopping_website:click the element:('xpath', "//span[text()='Personalized']")--base_page.py--73
+time:2022-04-20 12:56:57,643--INFO:shopping_website:click the element://div[@class='selectric-scroll']//li[@data-index='4']--base_page.py--82
+time:2022-04-20 12:57:04,245--INFO:shopping_website:click the element://a[@class='thumb-link ']/picture/img--base_page.py--82
+time:2022-04-20 12:58:24,355--ERROR:shopping_website:cannot click the element://*[@class='header-icon-search']--base_page.py--84
+time:2022-04-20 12:59:33,994--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-20 12:59:34,034--INFO:shopping_website:locate the element:('id', 'dwfrm_login_username')--base_page.py--42
+time:2022-04-20 12:59:34,510--INFO:shopping_website:input the text:1659145340@qq.com--base_page.py--91
+time:2022-04-20 12:59:34,564--INFO:shopping_website:locate the element:('id', 'dwfrm_login_password')--base_page.py--42
+time:2022-04-20 12:59:34,921--INFO:shopping_website:input the text:1204fighting--base_page.py--91
+time:2022-04-20 12:59:34,971--INFO:shopping_website:locate the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--42
+time:2022-04-20 12:59:35,157--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--73
+time:2022-04-20 12:59:35,183--INFO:shopping_website:locate the element:('id', 'login')--base_page.py--42
+time:2022-04-20 12:59:37,757--INFO:shopping_website:click the element:('id', 'login')--base_page.py--73
+time:2022-04-20 12:59:37,919--INFO:shopping_website:click the element://*[@class='header-icon-search']--base_page.py--82
+time:2022-04-20 12:59:37,919--INFO:shopping_website:click the element://*[@class='header-icon-search']--base_page.py--82
+time:2022-04-20 12:59:37,965--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:59:37,965--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:59:38,041--INFO:shopping_website:click the element:('id', 'searchInput')--base_page.py--73
+time:2022-04-20 12:59:38,041--INFO:shopping_website:click the element:('id', 'searchInput')--base_page.py--73
+time:2022-04-20 12:59:38,118--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:59:38,118--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:59:38,215--INFO:shopping_website:input the text:sweater--base_page.py--91
+time:2022-04-20 12:59:38,215--INFO:shopping_website:input the text:sweater--base_page.py--91
+time:2022-04-20 12:59:38,318--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:59:38,318--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 12:59:42,148--INFO:shopping_website:enter key in the element of:('id', 'searchInput')--base_page.py--112
+time:2022-04-20 12:59:42,148--INFO:shopping_website:enter key in the element of:('id', 'searchInput')--base_page.py--112
+time:2022-04-20 12:59:42,201--INFO:shopping_website:locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--42
+time:2022-04-20 12:59:42,201--INFO:shopping_website:locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--42
+time:2022-04-20 12:59:42,201--INFO:shopping_website:locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--42
+time:2022-04-20 12:59:42,528--INFO:shopping_website:click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--73
+time:2022-04-20 12:59:42,528--INFO:shopping_website:click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--73
+time:2022-04-20 12:59:42,528--INFO:shopping_website:click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--73
+time:2022-04-20 12:59:42,745--INFO:shopping_website:click the element:xpath--base_page.py--82
+time:2022-04-20 12:59:42,745--INFO:shopping_website:click the element:xpath--base_page.py--82
+time:2022-04-20 12:59:42,745--INFO:shopping_website:click the element:xpath--base_page.py--82
+time:2022-04-20 12:59:42,791--INFO:shopping_website:locate the element:('xpath', "//span[text()='Personalized']")--base_page.py--42
+time:2022-04-20 12:59:42,791--INFO:shopping_website:locate the element:('xpath', "//span[text()='Personalized']")--base_page.py--42
+time:2022-04-20 12:59:42,791--INFO:shopping_website:locate the element:('xpath', "//span[text()='Personalized']")--base_page.py--42
+time:2022-04-20 12:59:43,055--INFO:shopping_website:click the element:('xpath', "//span[text()='Personalized']")--base_page.py--73
+time:2022-04-20 12:59:43,055--INFO:shopping_website:click the element:('xpath', "//span[text()='Personalized']")--base_page.py--73
+time:2022-04-20 12:59:43,055--INFO:shopping_website:click the element:('xpath', "//span[text()='Personalized']")--base_page.py--73
+time:2022-04-20 12:59:43,171--INFO:shopping_website:click the element://div[@class='selectric-scroll']//li[@data-index='4']--base_page.py--82
+time:2022-04-20 12:59:43,171--INFO:shopping_website:click the element://div[@class='selectric-scroll']//li[@data-index='4']--base_page.py--82
+time:2022-04-20 12:59:43,171--INFO:shopping_website:click the element://div[@class='selectric-scroll']//li[@data-index='4']--base_page.py--82
+time:2022-04-20 12:59:44,391--ERROR:shopping_website:cannot click the element://a[@class='thumb-link ']/picture/img--base_page.py--84
+time:2022-04-20 12:59:44,391--ERROR:shopping_website:cannot click the element://a[@class='thumb-link ']/picture/img--base_page.py--84
+time:2022-04-20 12:59:44,391--ERROR:shopping_website:cannot click the element://a[@class='thumb-link ']/picture/img--base_page.py--84
+time:2022-04-20 13:01:15,787--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-20 13:01:15,864--INFO:shopping_website:locate the element:('id', 'dwfrm_login_username')--base_page.py--42
+time:2022-04-20 13:01:16,297--INFO:shopping_website:input the text:1659145340@qq.com--base_page.py--91
+time:2022-04-20 13:01:16,342--INFO:shopping_website:locate the element:('id', 'dwfrm_login_password')--base_page.py--42
+time:2022-04-20 13:01:16,627--INFO:shopping_website:input the text:1204fighting--base_page.py--91
+time:2022-04-20 13:01:16,680--INFO:shopping_website:locate the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--42
+time:2022-04-20 13:01:16,821--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--73
+time:2022-04-20 13:01:16,857--INFO:shopping_website:locate the element:('id', 'login')--base_page.py--42
+time:2022-04-20 13:01:18,913--INFO:shopping_website:click the element:('id', 'login')--base_page.py--73
+time:2022-04-20 13:01:19,284--INFO:shopping_website:click the element://*[@class='header-icon-search']--base_page.py--82
+time:2022-04-20 13:01:19,284--INFO:shopping_website:click the element://*[@class='header-icon-search']--base_page.py--82
+time:2022-04-20 13:01:19,317--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:01:19,317--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:01:19,400--INFO:shopping_website:click the element:('id', 'searchInput')--base_page.py--73
+time:2022-04-20 13:01:19,400--INFO:shopping_website:click the element:('id', 'searchInput')--base_page.py--73
+time:2022-04-20 13:01:19,460--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:01:19,460--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:01:19,575--INFO:shopping_website:input the text:sweater--base_page.py--91
+time:2022-04-20 13:01:19,575--INFO:shopping_website:input the text:sweater--base_page.py--91
+time:2022-04-20 13:01:19,617--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:01:19,617--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:01:23,788--INFO:shopping_website:enter key in the element of:('id', 'searchInput')--base_page.py--112
+time:2022-04-20 13:01:23,788--INFO:shopping_website:enter key in the element of:('id', 'searchInput')--base_page.py--112
+time:2022-04-20 13:01:23,843--INFO:shopping_website:locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--42
+time:2022-04-20 13:01:23,843--INFO:shopping_website:locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--42
+time:2022-04-20 13:01:23,843--INFO:shopping_website:locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--42
+time:2022-04-20 13:01:24,197--INFO:shopping_website:click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--73
+time:2022-04-20 13:01:24,197--INFO:shopping_website:click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--73
+time:2022-04-20 13:01:24,197--INFO:shopping_website:click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--73
+time:2022-04-20 13:01:24,401--INFO:shopping_website:click the element:xpath--base_page.py--82
+time:2022-04-20 13:01:24,401--INFO:shopping_website:click the element:xpath--base_page.py--82
+time:2022-04-20 13:01:24,401--INFO:shopping_website:click the element:xpath--base_page.py--82
+time:2022-04-20 13:01:25,232--INFO:shopping_website:locate the element:('xpath', "//span[text()='Personalized']")--base_page.py--42
+time:2022-04-20 13:01:25,232--INFO:shopping_website:locate the element:('xpath', "//span[text()='Personalized']")--base_page.py--42
+time:2022-04-20 13:01:25,232--INFO:shopping_website:locate the element:('xpath', "//span[text()='Personalized']")--base_page.py--42
+time:2022-04-20 13:01:25,282--ERROR:shopping_website:cannot click the element:('xpath', "//span[text()='Personalized']")--base_page.py--75
+time:2022-04-20 13:01:25,282--ERROR:shopping_website:cannot click the element:('xpath', "//span[text()='Personalized']")--base_page.py--75
+time:2022-04-20 13:01:25,282--ERROR:shopping_website:cannot click the element:('xpath', "//span[text()='Personalized']")--base_page.py--75
+time:2022-04-20 13:05:29,884--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-20 13:05:29,920--INFO:shopping_website:locate the element:('id', 'dwfrm_login_username')--base_page.py--42
+time:2022-04-20 13:05:30,363--INFO:shopping_website:input the text:1659145340@qq.com--base_page.py--91
+time:2022-04-20 13:05:30,398--INFO:shopping_website:locate the element:('id', 'dwfrm_login_password')--base_page.py--42
+time:2022-04-20 13:05:30,692--INFO:shopping_website:input the text:1204fighting--base_page.py--91
+time:2022-04-20 13:05:30,722--INFO:shopping_website:locate the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--42
+time:2022-04-20 13:05:30,874--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--73
+time:2022-04-20 13:05:30,915--INFO:shopping_website:locate the element:('id', 'login')--base_page.py--42
+time:2022-04-20 13:05:33,345--INFO:shopping_website:click the element:('id', 'login')--base_page.py--73
+time:2022-04-20 13:06:12,543--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-20 13:06:12,611--INFO:shopping_website:locate the element:('id', 'dwfrm_login_username')--base_page.py--42
+time:2022-04-20 13:06:12,975--INFO:shopping_website:input the text:1659145340@qq.com--base_page.py--91
+time:2022-04-20 13:06:13,037--INFO:shopping_website:locate the element:('id', 'dwfrm_login_password')--base_page.py--42
+time:2022-04-20 13:06:13,371--INFO:shopping_website:input the text:1204fighting--base_page.py--91
+time:2022-04-20 13:06:13,394--INFO:shopping_website:locate the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--42
+time:2022-04-20 13:06:13,508--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--73
+time:2022-04-20 13:06:13,549--INFO:shopping_website:locate the element:('id', 'login')--base_page.py--42
+time:2022-04-20 13:06:16,158--INFO:shopping_website:click the element:('id', 'login')--base_page.py--73
+time:2022-04-20 13:06:16,625--INFO:shopping_website:click the element://*[@class='header-icon-search']--base_page.py--82
+time:2022-04-20 13:06:16,625--INFO:shopping_website:click the element://*[@class='header-icon-search']--base_page.py--82
+time:2022-04-20 13:06:16,655--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:06:16,655--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:06:16,721--INFO:shopping_website:click the element:('id', 'searchInput')--base_page.py--73
+time:2022-04-20 13:06:16,721--INFO:shopping_website:click the element:('id', 'searchInput')--base_page.py--73
+time:2022-04-20 13:06:16,787--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:06:16,787--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:06:16,891--INFO:shopping_website:input the text:sweater--base_page.py--91
+time:2022-04-20 13:06:16,891--INFO:shopping_website:input the text:sweater--base_page.py--91
+time:2022-04-20 13:06:16,933--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:06:16,933--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:06:20,618--INFO:shopping_website:enter key in the element of:('id', 'searchInput')--base_page.py--112
+time:2022-04-20 13:06:20,618--INFO:shopping_website:enter key in the element of:('id', 'searchInput')--base_page.py--112
+time:2022-04-20 13:34:08,534--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-20 13:34:08,589--INFO:shopping_website:locate the element:('id', 'dwfrm_login_username')--base_page.py--42
+time:2022-04-20 13:34:08,820--INFO:shopping_website:input the text:1659145340@qq.com--base_page.py--91
+time:2022-04-20 13:34:09,072--INFO:shopping_website:locate the element:('id', 'dwfrm_login_password')--base_page.py--42
+time:2022-04-20 13:34:09,238--INFO:shopping_website:input the text:1204fighting--base_page.py--91
+time:2022-04-20 13:34:09,288--INFO:shopping_website:locate the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--42
+time:2022-04-20 13:34:09,528--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--73
+time:2022-04-20 13:34:09,569--INFO:shopping_website:locate the element:('id', 'login')--base_page.py--42
+time:2022-04-20 13:34:11,676--INFO:shopping_website:click the element:('id', 'login')--base_page.py--73
+time:2022-04-20 13:34:12,019--INFO:shopping_website:click the element://*[@class='header-icon-search']--base_page.py--82
+time:2022-04-20 13:34:12,019--INFO:shopping_website:click the element://*[@class='header-icon-search']--base_page.py--82
+time:2022-04-20 13:34:12,056--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:34:12,056--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:34:12,142--INFO:shopping_website:click the element:('id', 'searchInput')--base_page.py--73
+time:2022-04-20 13:34:12,142--INFO:shopping_website:click the element:('id', 'searchInput')--base_page.py--73
+time:2022-04-20 13:34:12,206--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:34:12,206--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:34:12,288--INFO:shopping_website:input the text:sweater--base_page.py--91
+time:2022-04-20 13:34:12,288--INFO:shopping_website:input the text:sweater--base_page.py--91
+time:2022-04-20 13:34:12,305--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:34:12,305--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:34:15,405--INFO:shopping_website:enter key in the element of:('id', 'searchInput')--base_page.py--112
+time:2022-04-20 13:34:15,405--INFO:shopping_website:enter key in the element of:('id', 'searchInput')--base_page.py--112
+time:2022-04-20 13:34:15,448--INFO:shopping_website:locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--42
+time:2022-04-20 13:34:15,448--INFO:shopping_website:locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--42
+time:2022-04-20 13:34:15,448--INFO:shopping_website:locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--42
+time:2022-04-20 13:34:15,771--INFO:shopping_website:click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--73
+time:2022-04-20 13:34:15,771--INFO:shopping_website:click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--73
+time:2022-04-20 13:34:15,771--INFO:shopping_website:click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--73
+time:2022-04-20 13:34:16,032--INFO:shopping_website:click the element:xpath--base_page.py--82
+time:2022-04-20 13:34:16,032--INFO:shopping_website:click the element:xpath--base_page.py--82
+time:2022-04-20 13:34:16,032--INFO:shopping_website:click the element:xpath--base_page.py--82
+time:2022-04-20 13:35:15,880--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-20 13:35:15,926--INFO:shopping_website:locate the element:('id', 'dwfrm_login_username')--base_page.py--42
+time:2022-04-20 13:35:16,232--INFO:shopping_website:input the text:1659145340@qq.com--base_page.py--91
+time:2022-04-20 13:35:16,301--INFO:shopping_website:locate the element:('id', 'dwfrm_login_password')--base_page.py--42
+time:2022-04-20 13:35:16,516--INFO:shopping_website:input the text:1204fighting--base_page.py--91
+time:2022-04-20 13:35:16,532--INFO:shopping_website:locate the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--42
+time:2022-04-20 13:35:16,742--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--73
+time:2022-04-20 13:35:16,774--INFO:shopping_website:locate the element:('id', 'login')--base_page.py--42
+time:2022-04-20 13:35:18,798--INFO:shopping_website:click the element:('id', 'login')--base_page.py--73
+time:2022-04-20 13:35:19,090--INFO:shopping_website:click the element://*[@class='header-icon-search']--base_page.py--82
+time:2022-04-20 13:35:19,090--INFO:shopping_website:click the element://*[@class='header-icon-search']--base_page.py--82
+time:2022-04-20 13:35:19,123--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:35:19,123--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:35:19,195--INFO:shopping_website:click the element:('id', 'searchInput')--base_page.py--73
+time:2022-04-20 13:35:19,195--INFO:shopping_website:click the element:('id', 'searchInput')--base_page.py--73
+time:2022-04-20 13:35:19,254--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:35:19,254--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:35:19,435--INFO:shopping_website:input the text:sweater--base_page.py--91
+time:2022-04-20 13:35:19,435--INFO:shopping_website:input the text:sweater--base_page.py--91
+time:2022-04-20 13:35:19,491--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:35:19,491--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:35:22,615--INFO:shopping_website:enter key in the element of:('id', 'searchInput')--base_page.py--112
+time:2022-04-20 13:35:22,615--INFO:shopping_website:enter key in the element of:('id', 'searchInput')--base_page.py--112
+time:2022-04-20 13:35:22,666--INFO:shopping_website:locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--42
+time:2022-04-20 13:35:22,666--INFO:shopping_website:locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--42
+time:2022-04-20 13:35:22,666--INFO:shopping_website:locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--42
+time:2022-04-20 13:35:22,979--INFO:shopping_website:click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--73
+time:2022-04-20 13:35:22,979--INFO:shopping_website:click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--73
+time:2022-04-20 13:35:22,979--INFO:shopping_website:click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--73
+time:2022-04-20 13:35:23,132--INFO:shopping_website:click the element:xpath--base_page.py--82
+time:2022-04-20 13:35:23,132--INFO:shopping_website:click the element:xpath--base_page.py--82
+time:2022-04-20 13:35:23,132--INFO:shopping_website:click the element:xpath--base_page.py--82
+time:2022-04-20 13:35:23,218--INFO:shopping_website:locate the element:('xpath', "//span[text()='Personalized']")--base_page.py--42
+time:2022-04-20 13:35:23,218--INFO:shopping_website:locate the element:('xpath', "//span[text()='Personalized']")--base_page.py--42
+time:2022-04-20 13:35:23,218--INFO:shopping_website:locate the element:('xpath', "//span[text()='Personalized']")--base_page.py--42
+time:2022-04-20 13:35:23,447--INFO:shopping_website:click the element:('xpath', "//span[text()='Personalized']")--base_page.py--73
+time:2022-04-20 13:35:23,447--INFO:shopping_website:click the element:('xpath', "//span[text()='Personalized']")--base_page.py--73
+time:2022-04-20 13:35:23,447--INFO:shopping_website:click the element:('xpath', "//span[text()='Personalized']")--base_page.py--73
+time:2022-04-20 13:35:23,503--INFO:shopping_website:click the element://div[@class='selectric-scroll']//li[@data-index='4']--base_page.py--82
+time:2022-04-20 13:35:23,503--INFO:shopping_website:click the element://div[@class='selectric-scroll']//li[@data-index='4']--base_page.py--82
+time:2022-04-20 13:35:23,503--INFO:shopping_website:click the element://div[@class='selectric-scroll']//li[@data-index='4']--base_page.py--82
+time:2022-04-20 13:36:03,257--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-20 13:36:03,359--INFO:shopping_website:locate the element:('id', 'dwfrm_login_username')--base_page.py--42
+time:2022-04-20 13:36:03,694--INFO:shopping_website:input the text:1659145340@qq.com--base_page.py--91
+time:2022-04-20 13:36:03,762--INFO:shopping_website:locate the element:('id', 'dwfrm_login_password')--base_page.py--42
+time:2022-04-20 13:36:03,885--INFO:shopping_website:input the text:1204fighting--base_page.py--91
+time:2022-04-20 13:36:03,903--INFO:shopping_website:locate the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--42
+time:2022-04-20 13:36:03,962--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--73
+time:2022-04-20 13:36:04,023--INFO:shopping_website:locate the element:('id', 'login')--base_page.py--42
+time:2022-04-20 13:36:05,928--INFO:shopping_website:click the element:('id', 'login')--base_page.py--73
+time:2022-04-20 13:36:06,306--INFO:shopping_website:click the element://*[@class='header-icon-search']--base_page.py--82
+time:2022-04-20 13:36:06,306--INFO:shopping_website:click the element://*[@class='header-icon-search']--base_page.py--82
+time:2022-04-20 13:36:06,330--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:36:06,330--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:36:06,416--INFO:shopping_website:click the element:('id', 'searchInput')--base_page.py--73
+time:2022-04-20 13:36:06,416--INFO:shopping_website:click the element:('id', 'searchInput')--base_page.py--73
+time:2022-04-20 13:36:06,450--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:36:06,450--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:36:06,517--INFO:shopping_website:input the text:sweater--base_page.py--91
+time:2022-04-20 13:36:06,517--INFO:shopping_website:input the text:sweater--base_page.py--91
+time:2022-04-20 13:36:06,575--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:36:06,575--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-20 13:36:08,299--INFO:shopping_website:enter key in the element of:('id', 'searchInput')--base_page.py--112
+time:2022-04-20 13:36:08,299--INFO:shopping_website:enter key in the element of:('id', 'searchInput')--base_page.py--112
+time:2022-04-20 13:36:08,354--INFO:shopping_website:locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--42
+time:2022-04-20 13:36:08,354--INFO:shopping_website:locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--42
+time:2022-04-20 13:36:08,354--INFO:shopping_website:locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--42
+time:2022-04-20 13:36:08,663--INFO:shopping_website:click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--73
+time:2022-04-20 13:36:08,663--INFO:shopping_website:click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--73
+time:2022-04-20 13:36:08,663--INFO:shopping_website:click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")--base_page.py--73
+time:2022-04-20 13:36:08,878--INFO:shopping_website:click the element:xpath--base_page.py--82
+time:2022-04-20 13:36:08,878--INFO:shopping_website:click the element:xpath--base_page.py--82
+time:2022-04-20 13:36:08,878--INFO:shopping_website:click the element:xpath--base_page.py--82
+time:2022-04-20 13:36:09,009--INFO:shopping_website:locate the element:('xpath', "//span[text()='Personalized']")--base_page.py--42
+time:2022-04-20 13:36:09,009--INFO:shopping_website:locate the element:('xpath', "//span[text()='Personalized']")--base_page.py--42
+time:2022-04-20 13:36:09,009--INFO:shopping_website:locate the element:('xpath', "//span[text()='Personalized']")--base_page.py--42
+time:2022-04-20 13:36:09,243--INFO:shopping_website:click the element:('xpath', "//span[text()='Personalized']")--base_page.py--73
+time:2022-04-20 13:36:09,243--INFO:shopping_website:click the element:('xpath', "//span[text()='Personalized']")--base_page.py--73
+time:2022-04-20 13:36:09,243--INFO:shopping_website:click the element:('xpath', "//span[text()='Personalized']")--base_page.py--73
+time:2022-04-20 13:36:09,354--INFO:shopping_website:click the element://div[@class='selectric-scroll']//li[@data-index='4']--base_page.py--82
+time:2022-04-20 13:36:09,354--INFO:shopping_website:click the element://div[@class='selectric-scroll']//li[@data-index='4']--base_page.py--82
+time:2022-04-20 13:36:09,354--INFO:shopping_website:click the element://div[@class='selectric-scroll']//li[@data-index='4']--base_page.py--82
+time:2022-04-20 13:36:10,401--ERROR:shopping_website:cannot click the element://a[@class='thumb-link ']/picture/img--base_page.py--84
+time:2022-04-20 13:36:10,401--ERROR:shopping_website:cannot click the element://a[@class='thumb-link ']/picture/img--base_page.py--84
+time:2022-04-20 13:36:10,401--ERROR:shopping_website:cannot click the element://a[@class='thumb-link ']/picture/img--base_page.py--84
+2022-04-20 13:53:16,991 - shopping-online - INFO - open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+2022-04-20 13:54:05,521 - shopping-online - INFO - open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+2022-04-20 13:54:05,541 - shopping-online - INFO - locate the element:('id', 'dwfrm_login_username')
+2022-04-20 13:54:05,694 - shopping-online - INFO - input the text:1659145340@qq.com
+2022-04-20 13:54:05,716 - shopping-online - INFO - locate the element:('id', 'dwfrm_login_password')
+2022-04-20 13:54:05,920 - shopping-online - INFO - input the text:1204fighting
+2022-04-20 13:54:05,938 - shopping-online - INFO - locate the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-04-20 13:54:06,119 - shopping-online - INFO - click the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-04-20 13:54:06,144 - shopping-online - INFO - locate the element:('id', 'login')
+2022-04-20 13:54:08,097 - shopping-online - INFO - click the element:('id', 'login')
+2022-04-20 13:54:08,426 - shopping-online - INFO - click the element://*[@class='header-icon-search']
+2022-04-20 13:54:08,457 - shopping-online - INFO - locate the element:('id', 'searchInput')
+2022-04-20 13:54:08,528 - shopping-online - INFO - click the element:('id', 'searchInput')
+2022-04-20 13:54:08,591 - shopping-online - INFO - locate the element:('id', 'searchInput')
+2022-04-20 13:54:08,791 - shopping-online - INFO - input the text:sweater
+2022-04-20 13:54:08,827 - shopping-online - INFO - locate the element:('id', 'searchInput')
+2022-04-20 13:54:11,823 - shopping-online - INFO - enter key in the element of:('id', 'searchInput')
+2022-04-20 13:54:11,871 - shopping-online - INFO - locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+2022-04-20 13:54:12,213 - shopping-online - INFO - click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+2022-04-20 13:54:12,517 - shopping-online - INFO - click the element:xpath
+2022-04-20 13:54:12,656 - shopping-online - INFO - locate the element:('xpath', "//span[text()='Personalized']")
+2022-04-20 13:54:13,207 - shopping-online - ERROR - cannot click the element:('xpath', "//span[text()='Personalized']")
+2022-04-20 14:08:13,766 - shopping-online - INFO - open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+2022-04-20 14:08:13,787 - shopping-online - INFO - locate the element:('id', 'dwfrm_login_username')
+2022-04-20 14:08:13,901 - shopping-online - INFO - input the text:1659145340@qq.com
+2022-04-20 14:08:13,926 - shopping-online - INFO - locate the element:('id', 'dwfrm_login_password')
+2022-04-20 14:08:14,110 - shopping-online - INFO - input the text:1204fighting
+2022-04-20 14:08:14,132 - shopping-online - INFO - locate the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-04-20 14:08:14,302 - shopping-online - INFO - click the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-04-20 14:08:14,328 - shopping-online - INFO - locate the element:('id', 'login')
+2022-04-20 14:08:16,486 - shopping-online - INFO - click the element:('id', 'login')
+2022-04-20 14:08:16,794 - shopping-online - INFO - click the element://*[@class='header-icon-search']
+2022-04-20 14:08:16,827 - shopping-online - INFO - locate the element:('id', 'searchInput')
+2022-04-20 14:08:16,898 - shopping-online - INFO - click the element:('id', 'searchInput')
+2022-04-20 14:08:16,968 - shopping-online - INFO - locate the element:('id', 'searchInput')
+2022-04-20 14:08:17,077 - shopping-online - INFO - input the text:sweater
+2022-04-20 14:08:17,092 - shopping-online - INFO - locate the element:('id', 'searchInput')
+2022-04-20 14:08:20,157 - shopping-online - INFO - enter key in the element of:('id', 'searchInput')
+2022-04-20 14:08:20,218 - shopping-online - INFO - locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+2022-04-20 14:08:20,540 - shopping-online - INFO - click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+2022-04-20 14:08:20,682 - shopping-online - INFO - click the element:xpath
+2022-04-20 14:08:23,706 - shopping-online - INFO - locate the element:('xpath', "//span[text()='Personalized']")
+2022-04-20 14:08:23,832 - shopping-online - INFO - click the element:('xpath', "//span[text()='Personalized']")
+2022-04-20 14:08:23,903 - shopping-online - INFO - click the element://div[@class='selectric-scroll']//li[@data-index='4']
+2022-04-20 14:08:29,857 - shopping-online - INFO - click the element://a[@class='thumb-link ']/picture/img
+2022-04-20 14:23:21,355 - shopping-online - INFO - open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+2022-04-20 14:23:21,382 - shopping-online - INFO - locate the element:('id', 'dwfrm_login_username')
+2022-04-20 14:23:21,710 - shopping-online - INFO - input the text:1659145340@qq.com
+2022-04-20 14:23:21,796 - shopping-online - INFO - locate the element:('id', 'dwfrm_login_password')
+2022-04-20 14:23:22,018 - shopping-online - INFO - input the text:1204fighting
+2022-04-20 14:23:22,041 - shopping-online - INFO - locate the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-04-20 14:23:22,092 - shopping-online - INFO - click the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-04-20 14:23:22,110 - shopping-online - INFO - locate the element:('id', 'login')
+2022-04-20 14:23:24,173 - shopping-online - INFO - click the element:('id', 'login')
+2022-04-20 14:23:24,470 - shopping-online - INFO - click the element://*[@class='header-icon-search']
+2022-04-20 14:23:24,511 - shopping-online - INFO - locate the element:('id', 'searchInput')
+2022-04-20 14:23:24,585 - shopping-online - INFO - click the element:('id', 'searchInput')
+2022-04-20 14:23:24,634 - shopping-online - INFO - locate the element:('id', 'searchInput')
+2022-04-20 14:23:24,760 - shopping-online - INFO - input the text:sweater
+2022-04-20 14:23:24,776 - shopping-online - INFO - locate the element:('id', 'searchInput')
+2022-04-20 14:23:28,286 - shopping-online - INFO - enter key in the element of:('id', 'searchInput')
+2022-04-20 14:23:28,346 - shopping-online - INFO - locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+2022-04-20 14:23:28,653 - shopping-online - INFO - click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+2022-04-20 14:23:28,785 - shopping-online - INFO - click the element:xpath
+2022-04-20 14:23:31,809 - shopping-online - INFO - locate the element:('xpath', "//span[text()='Personalized']")
+2022-04-20 14:23:31,925 - shopping-online - INFO - click the element:('xpath', "//span[text()='Personalized']")
+2022-04-20 14:23:32,000 - shopping-online - INFO - click the element://div[@class='selectric-scroll']//li[@data-index='4']
+2022-04-20 14:23:38,051 - shopping-online - INFO - click the element://a[@class='thumb-link ']/picture/img
+2022-04-20 14:27:35,269 - shopping-online - INFO - open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+2022-04-20 14:27:35,400 - shopping-online - INFO - locate the element:('id', 'dwfrm_login_username')
+2022-04-20 14:27:35,788 - shopping-online - INFO - input the text:1659145340@qq.com
+2022-04-20 14:27:35,806 - shopping-online - INFO - locate the element:('id', 'dwfrm_login_password')
+2022-04-20 14:27:35,987 - shopping-online - INFO - input the text:1204fighting
+2022-04-20 14:27:36,004 - shopping-online - INFO - locate the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-04-20 14:27:36,180 - shopping-online - INFO - click the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-04-20 14:27:36,211 - shopping-online - INFO - locate the element:('id', 'login')
+2022-04-20 14:27:38,701 - shopping-online - INFO - click the element:('id', 'login')
+2022-04-20 14:27:38,846 - shopping-online - INFO - click the element://*[@class='header-icon-search']
+2022-04-20 14:27:38,880 - shopping-online - INFO - locate the element:('id', 'searchInput')
+2022-04-20 14:27:38,951 - shopping-online - INFO - click the element:('id', 'searchInput')
+2022-04-20 14:27:39,002 - shopping-online - INFO - locate the element:('id', 'searchInput')
+2022-04-20 14:27:39,191 - shopping-online - INFO - input the text:sweater
+2022-04-20 14:27:39,230 - shopping-online - INFO - locate the element:('id', 'searchInput')
+2022-04-20 14:27:42,238 - shopping-online - INFO - enter key in the element of:('id', 'searchInput')
+2022-04-20 14:27:42,288 - shopping-online - INFO - locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+2022-04-20 14:27:42,561 - shopping-online - INFO - click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+2022-04-20 14:27:42,780 - shopping-online - INFO - click the element:xpath
+2022-04-20 14:27:42,851 - shopping-online - INFO - locate the element:('xpath', "//span[text()='Personalized']")
+2022-04-20 14:27:43,109 - shopping-online - INFO - click the element:('xpath', "//span[text()='Personalized']")
+2022-04-20 14:27:43,244 - shopping-online - INFO - click the element://div[@class='selectric-scroll']//li[@data-index='4']
+2022-04-20 14:27:44,360 - shopping-online - ERROR - cannot click the element://a[@class='thumb-link ']/picture/img

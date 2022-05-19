@@ -1,0 +1,49 @@
+time:2022-04-19 16:58:46,517--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-19 18:58:44,142--INFO:shopping_website:**************** START ***************--conftest.py--12
+time:2022-04-19 18:58:50,224--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-19 18:58:50,224--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-19 19:00:12,760--INFO:shopping_website:**************** START ***************--conftest.py--12
+time:2022-04-19 19:00:18,523--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-19 19:15:58,902--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-19 19:15:58,977--INFO:shopping_website:locate the element:('id', 'dwfrm_login_username')--base_page.py--42
+time:2022-04-19 19:15:59,421--INFO:shopping_website:input the text:1659145340@qq.com--base_page.py--91
+time:2022-04-19 19:15:59,502--INFO:shopping_website:locate the element:('id', 'dwfrm_login_password')--base_page.py--42
+time:2022-04-19 19:15:59,801--INFO:shopping_website:input the text:1204fighting--base_page.py--91
+time:2022-04-19 19:15:59,863--INFO:shopping_website:locate the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--42
+time:2022-04-19 19:16:00,058--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--73
+time:2022-04-19 19:16:00,110--INFO:shopping_website:locate the element:('id', 'login')--base_page.py--42
+time:2022-04-19 19:16:02,892--INFO:shopping_website:click the element:('id', 'login')--base_page.py--73
+time:2022-04-19 19:16:02,895--ERROR:shopping_website:cannot click the element://*[@class='header-icon-search']--base_page.py--84
+time:2022-04-19 19:16:02,895--ERROR:shopping_website:cannot click the element://*[@class='header-icon-search']--base_page.py--84
+time:2022-04-19 19:19:54,378--ERROR:shopping_website:cannot click the element://*[@class='header-icon-search']--base_page.py--84
+time:2022-04-19 19:21:13,435--ERROR:shopping_website:cannot click the element://*[@class='header-icon-search']--base_page.py--84
+time:2022-04-19 19:25:53,367--INFO:shopping_website:locate the elements:('xpath', "//*[@class='header-icon-search']")--base_page.py--51
+time:2022-04-19 19:25:53,584--INFO:shopping_website:click the element://*[@class='header-icon-search']--base_page.py--82
+time:2022-04-19 19:25:54,055--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-19 19:25:54,167--INFO:shopping_website:click the element:('id', 'searchInput')--base_page.py--73
+time:2022-04-19 19:25:54,265--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-19 19:25:54,331--INFO:shopping_website:input the text:sweater--base_page.py--91
+time:2022-04-19 19:25:54,354--INFO:shopping_website:locate the element:('id', 'searchInput')--base_page.py--42
+time:2022-04-19 19:25:59,245--INFO:shopping_website:enter key in the element of:('id', 'searchInput')--base_page.py--112
+time:2022-04-19 19:26:32,543--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-19 19:26:32,590--INFO:shopping_website:locate the element:('id', 'dwfrm_login_username')--base_page.py--42
+time:2022-04-19 19:26:32,960--INFO:shopping_website:input the text:1659145340@qq.com--base_page.py--91
+time:2022-04-19 19:26:33,011--INFO:shopping_website:locate the element:('id', 'dwfrm_login_password')--base_page.py--42
+time:2022-04-19 19:26:33,323--INFO:shopping_website:input the text:1204fighting--base_page.py--91
+time:2022-04-19 19:26:33,392--INFO:shopping_website:locate the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--42
+time:2022-04-19 19:26:33,575--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--73
+time:2022-04-19 19:26:33,652--INFO:shopping_website:locate the element:('id', 'login')--base_page.py--42
+time:2022-04-19 19:26:36,116--INFO:shopping_website:click the element:('id', 'login')--base_page.py--73
+time:2022-04-19 19:26:36,118--ERROR:shopping_website:cannot click the element://*[@class='header-icon-search']--base_page.py--84
+time:2022-04-19 19:26:36,118--ERROR:shopping_website:cannot click the element://*[@class='header-icon-search']--base_page.py--84
+time:2022-04-19 19:28:17,777--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--24
+time:2022-04-19 19:28:17,848--INFO:shopping_website:locate the element:('id', 'dwfrm_login_username')--base_page.py--42
+time:2022-04-19 19:28:18,423--INFO:shopping_website:input the text:1659145340@qq.com--base_page.py--91
+time:2022-04-19 19:28:18,494--INFO:shopping_website:locate the element:('id', 'dwfrm_login_password')--base_page.py--42
+time:2022-04-19 19:28:18,738--INFO:shopping_website:input the text:1204fighting--base_page.py--91
+time:2022-04-19 19:28:18,824--INFO:shopping_website:locate the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--42
+time:2022-04-19 19:28:18,928--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--73
+time:2022-04-19 19:28:18,968--INFO:shopping_website:locate the element:('id', 'login')--base_page.py--42
+time:2022-04-19 19:28:21,307--INFO:shopping_website:click the element:('id', 'login')--base_page.py--73
+time:2022-04-19 19:28:26,327--ERROR:shopping_website:cannot click the element://*[@class='header-icon-search']--base_page.py--84
+time:2022-04-19 19:28:26,327--ERROR:shopping_website:cannot click the element://*[@class='header-icon-search']--base_page.py--84

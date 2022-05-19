@@ -1,0 +1,77 @@
+2022-05-05 16:54:42,888 - shopping-online - INFO - send successfully
+2022-05-05 18:52:46,197 - shopping-online - INFO - ******************************** START *******************************
+2022-05-05 18:53:09,857 - shopping-online - INFO - open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+2022-05-05 18:53:09,872 - shopping-online - ERROR - cannot input the txt:1659145340@qq.com
+2022-05-05 18:53:12,545 - shopping-online - INFO - ******************************** END **********************************
+2022-05-05 18:54:12,673 - shopping-online - INFO - ******************************** START *******************************
+2022-05-05 18:54:24,189 - shopping-online - INFO - open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+2022-05-05 18:54:24,275 - shopping-online - INFO - locate the element:('id', 'dwfrm_login_username')
+2022-05-05 18:54:24,436 - shopping-online - INFO - input the text:1659145340@qq.com
+2022-05-05 18:54:24,492 - shopping-online - INFO - locate the element:('id', 'dwfrm_login_password')
+2022-05-05 18:54:26,274 - shopping-online - INFO - input the text:1204fighting
+2022-05-05 18:54:26,292 - shopping-online - INFO - locate the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-05-05 18:54:26,317 - shopping-online - INFO - click the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-05-05 18:54:26,330 - shopping-online - INFO - locate the element:('id', 'login')
+2022-05-05 18:54:31,285 - shopping-online - INFO - click the element:('id', 'login')
+2022-05-05 18:54:31,319 - shopping-online - INFO - locate the element:('xpath', "//button[@aria-label='Search']/span[@class='header-icon-search']")
+2022-05-05 18:54:31,417 - shopping-online - INFO - click the element:('xpath', "//button[@aria-label='Search']/span[@class='header-icon-search']")
+2022-05-05 18:54:31,436 - shopping-online - INFO - locate the element:('id', 'searchInput')
+2022-05-05 18:54:31,450 - shopping-online - INFO - click the element:('id', 'searchInput')
+2022-05-05 18:54:31,518 - shopping-online - INFO - locate the element:('id', 'searchInput')
+2022-05-05 18:54:31,604 - shopping-online - INFO - input the text:sweater
+2022-05-05 18:54:31,909 - shopping-online - INFO - locate the element:('id', 'searchInput')
+2022-05-05 18:54:36,206 - shopping-online - INFO - enter key in the element of:('id', 'searchInput')
+2022-05-05 18:54:36,259 - shopping-online - INFO - locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+2022-05-05 18:54:36,557 - shopping-online - INFO - click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+2022-05-05 18:54:36,588 - shopping-online - INFO - locate the element:('xpath', "//li[@class='expandable']/a[text()='Women']")
+2022-05-05 18:54:36,647 - shopping-online - INFO - click the element:('xpath', "//li[@class='expandable']/a[text()='Women']")
+2022-05-05 18:54:39,700 - shopping-online - INFO - locate the element:('xpath', "//span[text()='Personalized']")
+2022-05-05 18:54:39,829 - shopping-online - INFO - click the element:('xpath', "//span[text()='Personalized']")
+2022-05-05 18:54:39,852 - shopping-online - INFO - locate the element:('xpath', "//div[@class='selectric-scroll']//li[text()='Price High to Low']")
+2022-05-05 18:54:39,878 - shopping-online - INFO - click the element:('xpath', "//div[@class='selectric-scroll']//li[text()='Price High to Low']")
+2022-05-05 18:54:42,895 - shopping-online - INFO - locate the element:('xpath', "//a[@class='name-link']//h2[text()='Snowy Fox Open Collar Cardigan']")
+2022-05-05 18:54:51,244 - shopping-online - INFO - click the element:('xpath', "//a[@class='name-link']//h2[text()='Snowy Fox Open Collar Cardigan']")
+2022-05-05 18:54:51,555 - shopping-online - INFO - locate the element:('xpath', "//a[contains(text(),'BLACK FOX')]")
+2022-05-05 18:54:51,953 - shopping-online - INFO - click the element:('xpath', "//a[contains(text(),'BLACK FOX')]")
+2022-05-05 18:54:52,039 - shopping-online - INFO - locate the element:('xpath', "//a[@title='Large']/span[text()='L']")
+2022-05-05 18:54:52,640 - shopping-online - INFO - click the element:('xpath', "//a[@title='Large']/span[text()='L']")
+2022-05-05 18:54:52,721 - shopping-online - INFO - locate the element:('xpath', "//div[@class='qty-block-increase']/span[@class='increase-qty unselectable']")
+2022-05-05 18:54:53,159 - shopping-online - INFO - click the element:('xpath', "//div[@class='qty-block-increase']/span[@class='increase-qty unselectable']")
+2022-05-05 18:54:53,219 - shopping-online - INFO - locate the element:('xpath', "//button[@id='add-to-cart']")
+2022-05-05 18:54:53,543 - shopping-online - INFO - click the element:('xpath', "//button[@id='add-to-cart']")
+2022-05-05 18:54:56,601 - shopping-online - INFO - locate the element:('xpath', "//a[contains(@class,'mini-cart-link-cart')]")
+2022-05-05 18:55:00,198 - shopping-online - INFO - click the element:('xpath', "//a[contains(@class,'mini-cart-link-cart')]")
+2022-05-05 18:55:00,232 - shopping-online - INFO - locate the element:('xpath', "//span[@class='qty-icon minus']")
+2022-05-05 18:55:00,675 - shopping-online - INFO - click the element:('xpath', "//span[@class='qty-icon minus']")
+2022-05-05 18:55:00,798 - shopping-online - INFO - scroll the window:
+2022-05-05 18:55:00,829 - shopping-online - INFO - locate the element:('xpath', "//a[contains(@class,'button-text')]")
+2022-05-05 18:55:10,852 - shopping-online - INFO - click the element:('xpath', "//a[contains(@class,'button-text')]")
+2022-05-05 18:55:10,875 - shopping-online - INFO - locate the element:('xpath', "//span[text()=', caro!']")
+2022-05-05 18:55:10,900 - shopping-online - INFO - get text:, Caro!
+2022-05-05 18:55:10,901 - shopping-online - INFO - PASS
+2022-05-05 18:55:13,504 - shopping-online - INFO - ******************************** END **********************************
+2022-05-05 18:55:13,514 - shopping-online - INFO - ******************************** START *******************************
+2022-05-05 18:55:21,957 - shopping-online - INFO - open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+2022-05-05 18:55:22,337 - shopping-online - INFO - locate the element:('id', 'dwfrm_login_username')
+2022-05-05 18:55:22,503 - shopping-online - INFO - input the text:1659145340@qq.com
+2022-05-05 18:55:22,617 - shopping-online - INFO - locate the element:('id', 'dwfrm_login_password')
+2022-05-05 18:55:23,010 - shopping-online - INFO - input the text:1204fighting
+2022-05-05 18:55:23,036 - shopping-online - INFO - locate the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-05-05 18:55:23,116 - shopping-online - INFO - click the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-05-05 18:55:23,137 - shopping-online - INFO - locate the element:('id', 'login')
+2022-05-05 18:55:25,856 - shopping-online - INFO - click the element:('id', 'login')
+2022-05-05 18:55:25,902 - shopping-online - INFO - locate the element:('xpath', "//button[@aria-label='Minicart Icon']/img[@alt='minicart-icon']")
+2022-05-05 18:55:26,170 - shopping-online - INFO - click the element:('xpath', "//button[@aria-label='Minicart Icon']/img[@alt='minicart-icon']")
+2022-05-05 18:55:26,209 - shopping-online - INFO - locate the element:('xpath', "//a[contains(@class,'mini-cart-link-cart')]")
+2022-05-05 18:55:28,871 - shopping-online - INFO - click the element:('xpath', "//a[contains(@class,'mini-cart-link-cart')]")
+2022-05-05 18:55:30,902 - shopping-online - INFO - locate the element:('xpath', "//a[@id='removeGiftOptions']")
+2022-05-05 18:55:30,954 - shopping-online - INFO - click the element:('xpath', "//a[@id='removeGiftOptions']")
+2022-05-05 18:55:32,970 - shopping-online - INFO - locate the element:('xpath', "//span[@class='remove']")
+2022-05-05 18:55:32,988 - shopping-online - INFO - click the element:('xpath', "//span[@class='remove']")
+2022-05-05 18:55:36,327 - shopping-online - INFO - locate the element:('xpath', "//span[text()=' No Items in Your Bag']")
+2022-05-05 18:55:36,355 - shopping-online - INFO - get text:No Items in Your Bag
+2022-05-05 18:55:36,356 - shopping-online - INFO - PASS
+2022-05-05 18:55:38,749 - shopping-online - INFO - ******************************** END **********************************
+2022-05-05 18:55:50,330 - shopping-online - INFO - send successfully
+2022-05-05 19:02:54,784 - shopping-online - INFO - send successfully
+2022-05-05 19:03:28,677 - shopping-online - INFO - send successfully

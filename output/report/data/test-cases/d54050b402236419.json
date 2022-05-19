@@ -1,0 +1,138 @@
+{
+  "uid" : "d54050b402236419",
+  "name" : "test_place_order",
+  "fullName" : "testcases.test_01place_order.TestPlaceOrder#test_place_order",
+  "historyId" : "74939336500ed00f113e60113b3d25f2",
+  "time" : {
+    "start" : 1651791271289,
+    "stop" : 1651791310903,
+    "duration" : 39614
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ {
+    "name" : "get_driver",
+    "time" : {
+      "start" : 1651791252673,
+      "stop" : 1651791255584,
+      "duration" : 2911
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "customer_login",
+    "time" : {
+      "start" : 1651791255584,
+      "stop" : 1651791271287,
+      "duration" : 15703
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d564a7e2566284a6",
+      "name" : "log",
+      "source" : "d564a7e2566284a6.txt",
+      "type" : "text/plain",
+      "size" : 4825
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "get_driver::0",
+    "time" : {
+      "start" : 1651791310905,
+      "stop" : 1651791313506,
+      "duration" : 2601
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_01place_order"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPlaceOrder"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-FU74VF0U"
+  }, {
+    "name" : "thread",
+    "value" : "7312-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_01place_order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9b073cf9503164b",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'is_displayed'",
+      "time" : {
+        "start" : 1651791166198,
+        "stop" : 1651791166198,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3e0192796cddc19c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651718118055,
+        "stop" : 1651718185623,
+        "duration" : 67568
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d54050b402236419.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,42 @@
+INFO     shopping-online:logger.py:26 ******************************** START *******************************
+INFO     shopping-online:logger.py:26 open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+INFO     shopping-online:logger.py:26 locate the element:('id', 'dwfrm_login_username')
+INFO     shopping-online:logger.py:26 input the text:1659145340@qq.com
+INFO     shopping-online:logger.py:26 locate the element:('id', 'dwfrm_login_password')
+INFO     shopping-online:logger.py:26 input the text:1204fighting
+INFO     shopping-online:logger.py:26 locate the element:('id', 'lbl_dwfrm_login_rememberme')
+INFO     shopping-online:logger.py:26 click the element:('id', 'lbl_dwfrm_login_rememberme')
+INFO     shopping-online:logger.py:26 locate the element:('id', 'login')
+INFO     shopping-online:logger.py:26 click the element:('id', 'login')
+INFO     shopping-online:logger.py:26 click the element://*[@class='header-icon-search']
+INFO     shopping-online:logger.py:26 locate the element:('id', 'searchInput')
+INFO     shopping-online:logger.py:26 click the element:('id', 'searchInput')
+INFO     shopping-online:logger.py:26 locate the element:('id', 'searchInput')
+INFO     shopping-online:logger.py:26 input the text:sweater
+INFO     shopping-online:logger.py:26 locate the element:('id', 'searchInput')
+INFO     shopping-online:logger.py:26 enter key in the element of:('id', 'searchInput')
+INFO     shopping-online:logger.py:26 locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+INFO     shopping-online:logger.py:26 click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+INFO     shopping-online:logger.py:26 click the element:xpath
+INFO     shopping-online:logger.py:26 locate the element:('xpath', "//span[text()='Personalized']")
+INFO     shopping-online:logger.py:26 click the element:('xpath', "//span[text()='Personalized']")
+INFO     shopping-online:logger.py:26 click the element://div[@class='selectric-scroll']//li[@data-index='4']
+INFO     shopping-online:logger.py:26 click the element:xpath
+INFO     shopping-online:logger.py:26 locate the element:('xpath', "//a[contains(text(),'BLACK FOX')]")
+INFO     shopping-online:logger.py:26 click the element:('xpath', "//a[contains(text(),'BLACK FOX')]")
+INFO     shopping-online:logger.py:26 locate the element:('xpath', "//a[@title='Large']/span[text()='L']")
+INFO     shopping-online:logger.py:26 click the element:('xpath', "//a[@title='Large']/span[text()='L']")
+INFO     shopping-online:logger.py:26 locate the element:('xpath', "//div[@class='qty-block-increase']/span[@class='increase-qty unselectable']")
+INFO     shopping-online:logger.py:26 click the element:('xpath', "//div[@class='qty-block-increase']/span[@class='increase-qty unselectable']")
+INFO     shopping-online:logger.py:26 locate the element:('xpath', "//button[@id='add-to-cart']")
+INFO     shopping-online:logger.py:26 click the element:('xpath', "//button[@id='add-to-cart']")
+INFO     shopping-online:logger.py:26 locate the element:('xpath', "//a[contains(@class,'mini-cart-link-cart')]")
+INFO     shopping-online:logger.py:26 click the element:('xpath', "//a[contains(@class,'mini-cart-link-cart')]")
+INFO     shopping-online:logger.py:26 locate the element:('xpath', "//span[@class='qty-icon minus']")
+INFO     shopping-online:logger.py:26 click the element:('xpath', "//span[@class='qty-icon minus']")
+INFO     shopping-online:logger.py:26 scroll the window:
+INFO     shopping-online:logger.py:26 locate the element:('xpath', "//button[@id='sendgift']//span[@class='root-plus']")
+INFO     shopping-online:logger.py:26 click the element:('xpath', "//button[@id='sendgift']//span[@class='root-plus']")
+INFO     shopping-online:logger.py:26 locate the element:('xpath', "//textarea[@class='input-textarea ']")
+ERROR    shopping-online:logger.py:30 cannot input the txt:Good luck!
+INFO     shopping-online:logger.py:26 ******************************** END **********************************

@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable\n  (Session info: chrome=96.0.4664.45)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00E86903+2517251]\n\tOrdinal0 [0x00E1F8E1+2095329]\n\tOrdinal0 [0x00D22710+1058576]\n\tOrdinal0 [0x00D48993+1214867]\n\tOrdinal0 [0x00D480DF+1212639]\n\tOrdinal0 [0x00D664D3+1336531]\n\tOrdinal0 [0x00D43A36+1194550]\n\tOrdinal0 [0x00D665BA+1336762]\n\tOrdinal0 [0x00D75BBF+1399743]\n\tOrdinal0 [0x00D6639B+1336219]\n\tOrdinal0 [0x00D427A7+1189799]\n\tOrdinal0 [0x00D43609+1193481]\n\tGetHandleVerifier [0x01015904+1577972]\n\tGetHandleVerifier [0x010C0B97+2279047]\n\tGetHandleVerifier [0x00F16D09+534521]\n\tGetHandleVerifier [0x00F15DB9+530601]\n\tOrdinal0 [0x00E24FF9+2117625]\n\tOrdinal0 [0x00E298A8+2136232]\n\tOrdinal0 [0x00E299E2+2136546]\n\tOrdinal0 [0x00E33541+2176321]\n\tBaseThreadInitThunk [0x761AFA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77687A7E+286]\n\tRtlGetAppContainerNamedObjectPath [0x77687A4E+238]",
+      "children" : [ {
+        "name" : "test_place_order",
+        "uid" : "a8cbc762b721d535",
+        "parentUid" : "7f87a170f5db62402c55ad14e0ab07c8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1650587515890,
+          "stop" : 1650587560898,
+          "duration" : 45008
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7f87a170f5db62402c55ad14e0ab07c8"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

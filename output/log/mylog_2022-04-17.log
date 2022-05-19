@@ -1,0 +1,58 @@
+time:2022-04-17 19:12:22,349--ERROR:shopping_project:000000000000--logger.py--37
+time:2022-04-17 19:13:03,389--INFO:shopping_project:000000000000--logger.py--37
+time:2022-04-17 19:22:45,604--INFO:shopping_website:**************** START ***************--conftest.py--13
+time:2022-04-17 19:22:51,622--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--20
+time:2022-04-17 19:22:51,622--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--20
+time:2022-04-17 19:22:51,753--INFO:shopping_website:input the text1659145340@qq.com--base_page.py--79
+time:2022-04-17 19:22:51,753--INFO:shopping_website:input the text1659145340@qq.com--base_page.py--79
+time:2022-04-17 19:22:51,971--INFO:shopping_website:input the text1204fighting--base_page.py--79
+time:2022-04-17 19:22:51,971--INFO:shopping_website:input the text1204fighting--base_page.py--79
+time:2022-04-17 19:22:52,172--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--63
+time:2022-04-17 19:22:52,172--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--63
+time:2022-04-17 19:22:54,109--INFO:shopping_website:click the element:('id', 'login')--base_page.py--63
+time:2022-04-17 19:22:54,109--INFO:shopping_website:click the element:('id', 'login')--base_page.py--63
+time:2022-04-17 19:22:56,381--INFO:shopping_website:**************** END ******************--conftest.py--19
+time:2022-04-17 19:22:56,381--INFO:shopping_website:**************** END ******************--conftest.py--19
+time:2022-04-17 19:25:02,234--INFO:shopping_website:**************** START ***************--conftest.py--13
+time:2022-04-17 19:25:07,498--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--20
+time:2022-04-17 19:25:07,498--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--20
+time:2022-04-17 19:25:07,619--INFO:shopping_website:input the text1659145340@qq.com--base_page.py--79
+time:2022-04-17 19:25:07,619--INFO:shopping_website:input the text1659145340@qq.com--base_page.py--79
+time:2022-04-17 19:25:07,821--INFO:shopping_website:input the text1204fighting--base_page.py--79
+time:2022-04-17 19:25:07,821--INFO:shopping_website:input the text1204fighting--base_page.py--79
+time:2022-04-17 19:25:08,012--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--63
+time:2022-04-17 19:25:08,012--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--63
+time:2022-04-17 19:25:09,913--INFO:shopping_website:click the element:('id', 'login')--base_page.py--63
+time:2022-04-17 19:25:09,913--INFO:shopping_website:click the element:('id', 'login')--base_page.py--63
+time:2022-04-17 19:25:12,160--INFO:shopping_website:**************** END ******************--conftest.py--19
+time:2022-04-17 19:25:12,160--INFO:shopping_website:**************** END ******************--conftest.py--19
+time:2022-04-17 19:29:10,536--INFO:shopping_website:**************** START ***************--conftest.py--13
+time:2022-04-17 19:29:15,335--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--21
+time:2022-04-17 19:29:15,751--INFO:shopping_website:input the text1659145340@qq.com--base_page.py--80
+time:2022-04-17 19:29:15,892--INFO:shopping_website:input the text1204fighting--base_page.py--80
+time:2022-04-17 19:29:16,022--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--64
+time:2022-04-17 19:29:17,946--INFO:shopping_website:click the element:('id', 'login')--base_page.py--64
+time:2022-04-17 19:29:20,205--INFO:shopping_website:**************** END ******************--conftest.py--19
+time:2022-04-17 19:45:57,847--INFO:shopping_project:000000000000--logger.py--38
+time:2022-04-17 19:47:43,998--INFO:shopping_website:**************** START ***************--conftest.py--13
+time:2022-04-17 19:47:48,889--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--21
+time:2022-04-17 19:47:49,323--INFO:shopping_website:input the text1659145340@qq.com--base_page.py--80
+time:2022-04-17 19:47:49,525--INFO:shopping_website:input the text1204fighting--base_page.py--80
+time:2022-04-17 19:47:49,635--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--64
+time:2022-04-17 19:47:51,589--INFO:shopping_website:click the element:('id', 'login')--base_page.py--64
+time:2022-04-17 19:47:53,872--INFO:shopping_website:**************** END ******************--conftest.py--19
+time:2022-04-17 19:52:23,086--INFO:shopping_website:**************** START ***************--conftest.py--12
+time:2022-04-17 19:52:27,807--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--21
+time:2022-04-17 19:52:28,232--INFO:shopping_website:input the text1659145340@qq.com--base_page.py--80
+time:2022-04-17 19:52:28,327--INFO:shopping_website:input the text1204fighting--base_page.py--80
+time:2022-04-17 19:52:28,422--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--64
+time:2022-04-17 19:52:30,253--INFO:shopping_website:click the element:('id', 'login')--base_page.py--64
+time:2022-04-17 19:52:32,513--INFO:shopping_website:**************** END ******************--conftest.py--18
+time:2022-04-17 19:57:33,073--INFO:shopping_website:**************** START ***************--conftest.py--12
+time:2022-04-17 19:57:37,727--INFO:shopping_website:open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show--base_page.py--21
+time:2022-04-17 19:57:38,155--INFO:shopping_website:input the text1659145340@qq.com--base_page.py--80
+time:2022-04-17 19:57:38,371--INFO:shopping_website:input the text1204fighting--base_page.py--80
+time:2022-04-17 19:57:38,457--INFO:shopping_website:click the element:('id', 'lbl_dwfrm_login_rememberme')--base_page.py--64
+time:2022-04-17 19:57:40,556--INFO:shopping_website:click the element:('id', 'login')--base_page.py--64
+time:2022-04-17 19:57:42,783--INFO:shopping_website:**************** END ******************--conftest.py--18
+time:2022-04-19 16:51:40,743--INFO:shopping_project:000000000000--logger.py--37

@@ -1,0 +1,49 @@
+2022-04-27 15:55:25,877 - shopping-online - INFO - ******************************** START *******************************
+2022-04-27 15:55:31,420 - shopping-online - INFO - open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+2022-04-27 15:55:31,528 - shopping-online - INFO - locate the element:('id', 'dwfrm_login_username')
+2022-04-27 15:55:31,643 - shopping-online - INFO - input the text:1659145340@qq.com
+2022-04-27 15:55:31,688 - shopping-online - INFO - locate the element:('id', 'dwfrm_login_password')
+2022-04-27 15:55:31,895 - shopping-online - INFO - input the text:1204fighting
+2022-04-27 15:55:31,982 - shopping-online - INFO - locate the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-04-27 15:55:32,052 - shopping-online - INFO - click the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-04-27 15:55:32,101 - shopping-online - INFO - locate the element:('id', 'login')
+2022-04-27 15:55:34,103 - shopping-online - INFO - click the element:('id', 'login')
+2022-04-27 15:55:34,106 - shopping-online - ERROR - cannot click the element://*[@class='header-icon-search']
+2022-04-27 15:55:36,606 - shopping-online - INFO - ******************************** END **********************************
+2022-04-27 15:58:23,317 - shopping-online - INFO - ******************************** START *******************************
+2022-04-27 15:58:28,382 - shopping-online - INFO - open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+2022-04-27 15:58:28,624 - shopping-online - INFO - locate the element:('id', 'dwfrm_login_username')
+2022-04-27 15:58:28,785 - shopping-online - INFO - input the text:1659145340@qq.com
+2022-04-27 15:58:28,826 - shopping-online - INFO - locate the element:('id', 'dwfrm_login_password')
+2022-04-27 15:58:29,043 - shopping-online - INFO - input the text:1204fighting
+2022-04-27 15:58:29,079 - shopping-online - INFO - locate the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-04-27 15:58:29,159 - shopping-online - INFO - click the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-04-27 15:58:29,203 - shopping-online - INFO - locate the element:('id', 'login')
+2022-04-27 15:58:31,282 - shopping-online - INFO - click the element:('id', 'login')
+2022-04-27 15:58:41,378 - shopping-online - ERROR - cannot click the element://*[@class='header-icon-search']
+2022-04-27 15:58:43,864 - shopping-online - INFO - ******************************** END **********************************
+2022-04-27 15:59:11,980 - shopping-online - INFO - ******************************** START *******************************
+2022-04-27 15:59:16,868 - shopping-online - INFO - open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+2022-04-27 15:59:17,082 - shopping-online - INFO - locate the element:('id', 'dwfrm_login_username')
+2022-04-27 15:59:17,197 - shopping-online - INFO - input the text:1659145340@qq.com
+2022-04-27 15:59:17,243 - shopping-online - INFO - locate the element:('id', 'dwfrm_login_password')
+2022-04-27 15:59:17,424 - shopping-online - INFO - input the text:1204fighting
+2022-04-27 15:59:17,497 - shopping-online - INFO - locate the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-04-27 15:59:17,658 - shopping-online - INFO - click the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-04-27 15:59:17,707 - shopping-online - INFO - locate the element:('id', 'login')
+2022-04-27 15:59:19,571 - shopping-online - INFO - click the element:('id', 'login')
+2022-04-27 15:59:19,862 - shopping-online - INFO - click the element://*[@class='header-icon-search']
+2022-04-27 15:59:20,018 - shopping-online - INFO - locate the element:('id', 'searchInput')
+2022-04-27 15:59:20,178 - shopping-online - INFO - click the element:('id', 'searchInput')
+2022-04-27 15:59:20,272 - shopping-online - INFO - locate the element:('id', 'searchInput')
+2022-04-27 15:59:20,307 - shopping-online - INFO - input the text:sweater
+2022-04-27 15:59:20,360 - shopping-online - INFO - locate the element:('id', 'searchInput')
+2022-04-27 15:59:23,926 - shopping-online - INFO - enter key in the element of:('id', 'searchInput')
+2022-04-27 15:59:24,174 - shopping-online - INFO - locate the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+2022-04-27 15:59:24,249 - shopping-online - INFO - click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+2022-04-27 15:59:24,485 - shopping-online - INFO - click the element:xpath
+2022-04-27 15:59:24,619 - shopping-online - INFO - locate the element:('xpath', "//span[text()='Personalized']")
+2022-04-27 15:59:24,756 - shopping-online - INFO - click the element:('xpath', "//span[text()='Personalized']")
+2022-04-27 15:59:24,828 - shopping-online - INFO - click the element://div[@class='selectric-scroll']//li[@data-index='4']
+2022-04-27 15:59:25,895 - shopping-online - ERROR - cannot click the element:xpath
+2022-04-27 15:59:28,425 - shopping-online - INFO - ******************************** END **********************************

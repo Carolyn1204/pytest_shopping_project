@@ -1,0 +1,4 @@
+INFO     shopping-online:logger.py:26 ******************************** START *******************************
+INFO     shopping-online:logger.py:26 open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+ERROR    shopping-online:logger.py:30 cannot input the txt:1659145340@qq.com
+INFO     shopping-online:logger.py:26 ******************************** END **********************************
